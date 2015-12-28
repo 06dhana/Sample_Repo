@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 the content of the sample file has been changed
+=======
+this is sample file for branch_4.
+Extra data is added for sample file.
+>>>>>>> d79faba9a2a1c5fb758b64947cec013188ee6493
